@@ -1,0 +1,152 @@
+/*********************************************color-SELECTORS****************************************************/
+body {
+    background-color:#b4d9f4;/*043e34*/
+}
+div {
+    background-color: #b4d9f4;
+}
+h1{
+    color: #043d2b;
+}
+h3 
+{
+    color:#043d2b;
+    font-size: 20;
+}
+h4{
+    color: #043d2b;
+    font-size: 20;
+}
+head 
+{
+    color: red;
+}
+body{
+    color: #043d2b;/*#53BF9D*/
+}
+/*********************************************margin-SELECTORS****************************************************/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+     }
+  
+h1 {  margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+   color: #043d2b;
+   line-height: 2;
+    }
+ p {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Dancing Script', cursive;
+ } 
+ h2 {
+    font-family: 'Montserrat', sans-serif;
+   color: #043d2b;
+   font-weight: normal;
+ } 
+ h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #043d2b;
+ } 
+
+
+.top-contanir {
+           background-color: #b4d9f4; 
+           padding-top: 0px;
+}
+
+.pro {
+    text-align: underline;
+}
+.mountain 
+
+
+.cloud2{
+    position: absolute;
+    left: 300px;
+}
+.cloud1{
+    position: relative;
+    left: 300px;
+}
+.class {
+    background-color:#b4d9f4 ;
+}
+.con {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.J {
+ font-size: 2.5rem;   
+}
+.intro {
+    width: 30%;
+    margin: auto auto auto auto;
+}
+hr{
+    border: dotted #8ccdfa
+}
+.A {
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #032035;;
+}
+/*********************************************buttons****************************************************/
+#fixedbutton {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px; 
+    display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid red;
+  color:red;}
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;}
+
+    .btn {
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Arial;
+        color: #261111;
+        font-size: 14px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+/*********************************************id-SELECTORS****************************************************/
+
+ #image {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-left: 30px;
+}
+
+
